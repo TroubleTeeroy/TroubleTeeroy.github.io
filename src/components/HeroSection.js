@@ -9,6 +9,7 @@ function HeroSection() {
             <video src="./videos/video-1.mp4" autoPlay loop muted />
             <h1>/ˈSHitē ˈkampiNG/</h1>
             <p>City Camping</p>
+            <p> Donations can be made to tpmiller08@gmail.com @ Pay Pal!</p>
             <div className="hero-btns">
                 <Button 
                 className="btns" 
